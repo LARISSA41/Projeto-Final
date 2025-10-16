@@ -17,7 +17,7 @@ Permite criar, listar, atualizar e remover tarefas, armazenando informações co
 
 1. Clone o repositório:
 ```bash
-git clone <URL_DO_REPOSITORIO_DA_LARISSA>
+git clone [<URL_DO_REPOSITORIO_DA_LARISSA>](https://github.com/LARISSA41/Projeto-Final/blob/main/README.md)
 Entre na pasta do projeto:
 
 bash
